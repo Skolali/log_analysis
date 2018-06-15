@@ -9,13 +9,13 @@
 # Installations Required
 
 You will need:
-  - Python3
-  - Vagrant
-  - VirtualBox
+  - [Python3](https://www.python.org/)
+  - [Vagrant](https://www.vagrantup.com/)
+  - [VirtualBox](https://www.virtualbox.org/)
 
 # Set Up
 1. Install Vagrant And VirtualBox
-2. Clone this repository
+2. Clone [this](https://github.com/udacity/fullstack-nanodegree-vm) repository
 
 # To Run
 Launch Vagrant VM by running vagrant up, you can the log in with vagrant ssh
@@ -28,4 +28,4 @@ The database includes three tables:
  - Articles table
 - Log table
 
-To execute the program, run python3 log.py from the command line.
+To execute the program, run python3 [log.py](https://github.com/Skolali/log_analysis/blob/master/log.py) from the command line.
