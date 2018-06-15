@@ -20,7 +20,7 @@ You will need:
 # To Run
 Launch Vagrant VM by running vagrant up, you can the log in with vagrant ssh
 
-To load the data, use the command psql -d news -f newsdata.sql to connect a database and run the necessary SQL statements.
+To load the [data](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip), use the command psql -d news -f newsdata.sql to connect a database and run the necessary SQL statements.
 
 The database includes three tables:
 
